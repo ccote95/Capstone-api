@@ -32,7 +32,7 @@
     {
       "id": 1,
       "userId": 1,
-      "title": "Anyone ",
+      "title": "Anyone want to play commander?",
       "formatId": 1,
       "deckId": 1,
       "gameOver": false,
@@ -50,7 +50,7 @@
       "date": "03/08/24 1:00"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Anyone trying to play some games?",
       "formatId": 2,
       "deckId": 2,
@@ -78,6 +78,26 @@
       "body": "asdgasdasdgasdg",
       "date": "3/19/2024",
       "id": 5
+    },
+    {
+      "userId": 2,
+      "title": "Who wants to get together today?",
+      "formatId": "3",
+      "deckId": "4",
+      "gameOver": false,
+      "body": "Just brewed this new deck, I'm trying to test it out. Anyone up for it?",
+      "date": "3/25/2024, 1:22:53 PM",
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "title": "I'm new to the game anyone want to show me the ropes",
+      "formatId": "1",
+      "deckId": "7",
+      "gameOver": false,
+      "body": "I'm just learning to play, anyone want to go easy on me and show me the ropes?",
+      "date": "3/25/2024, 1:33:44 PM",
+      "id": 7
     }
   ],
   "comments": [
@@ -108,6 +128,27 @@
       "body": "asgagag",
       "date": "Tue Mar 19 2024",
       "id": 4
+    },
+    {
+      "userId": 1,
+      "postId": 5,
+      "body": "SFADFHADFHAFH",
+      "date": "Wed Mar 20 2024",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "postId": 2,
+      "body": "hjsfgjsfgjs",
+      "date": "Wed Mar 20 2024",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "postId": 1,
+      "body": "I'd be down to play at mavericks in mason, if that works for you!",
+      "date": "3/25/2024, 1:07:08 PM",
+      "id": 7
     }
   ],
   "decks": [
@@ -120,6 +161,36 @@
       "id": 2,
       "userId": 1,
       "name": "Mono red Burn"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "name": "Esper Artifacts"
+    },
+    {
+      "userId": 2,
+      "name": "Mono Green Elves ",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "name": "Rakdos Madness",
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "name": "Sylesnea Humans",
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "name": "Gulgari Life drain",
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "name": "Rakdos Exile",
+      "id": 8
     }
   ],
   "formats": [
@@ -130,6 +201,10 @@
     {
       "id": 2,
       "name": "Standard"
+    },
+    {
+      "id": 3,
+      "name": "Modern"
     }
   ]
 }
